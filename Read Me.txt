@@ -1,2 +1,11 @@
-Node MongoDB REST API using Express framework.
+A simple CRUD application using:
+Node MongoDB REST API Express framework.
+*mongo server can be accessed from any Ip address.
 
+A CRUD Application for blog app/webpage.
+
+Test the api using postman following the routes .
+1.You can register or login a user form "/api/auth" path
+2.You can update,delete and get a user form "/api/users" path
+3.you can create,update,delete,get a single or multiple posts from "/api/posts" path.
+4.you can set a category name or get all categaories from "/api/categories" path.
